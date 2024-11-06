@@ -2,4 +2,4 @@
 
 This tutorial shows how to create a simple Discord bot.
 
-Please check it out as [my youtube channel](https://www.youtube.com/@roteklaue1311)
+Please check it out on [my youtube channel](https://www.youtube.com/@roteklaue1311)
